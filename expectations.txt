@@ -1,0 +1,9 @@
+# My Expectations of CMSC 100
+
+I've been learning web development for quite some time now. But I haven't taken on a serious personal project. I could just be lacking inspiration. I hope, somehow, that CMSC 100 can help muster some creative juices so that my webdev skills will not go to waste.
+
+I can already see that every one in the class will have a fruitful experience learning ReactJS with Sir Sammy. Given the infectious enthusiasm that Sir Sammy exudes in his discussions, I expect that his students reflect the same attitude towards CMSC 100.
+
+As for myself, I expect that both my skills and appreciation for web dev will be more refined with each lesson. I hope that I've learned from the previous semester that I should not procrastinate, especially in the projects so that this semester ends fruitfully and smoothly.
+
+Padayon, Iskolar ng Bayan!
